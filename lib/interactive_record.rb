@@ -1,4 +1,6 @@
 require_relative "../config/environment.rb"
+
+#run gem install activesupport for success
 require 'active_support/inflector'
 
 class InteractiveRecord
